@@ -60,7 +60,6 @@ src/
 ## 5. Tecnologias Utilizadas
 
 * **Java (JDK 17 ou superior)**
-* **Maven** (para gerenciamento do projeto)
 
 ---
 
