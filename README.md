@@ -40,6 +40,7 @@ Este projeto foi desenhado para aplicar e solidificar os seguintes conceitos té
 ---
 
 ## 4. Estrutura de Pacotes
+```
 src/
 └── com/meubanco/
     ├── Main.java
@@ -53,6 +54,7 @@ src/
     │   └── RepositorioDeContas.java
     └── service/
         └── ServicoDeTransferencia.java
+```
 ---
 
 ## 5. Tecnologias Utilizadas
