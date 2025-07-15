@@ -67,7 +67,6 @@ src/
 
 **Pré-requisitos:**
 * Java JDK 17 ou superior instalado.
-* Maven configurado nas variáveis de ambiente.
 * Git.
 
 **Passos:**
@@ -78,7 +77,7 @@ src/
     ```
 
 2.  **Abra na sua IDE:**
-    * Importe o projeto clonado na sua IDE de preferência (IntelliJ IDEA, Eclipse, VS Code). A IDE deverá reconhecer o projeto como um projeto Maven.
+    * Importe o projeto clonado na sua IDE de preferência (IntelliJ IDEA, Eclipse, VS Code)
 
 3.  **Execute a aplicação:**
     * Localize e execute o método `main` na classe `com.meubanco.Main.java`.
