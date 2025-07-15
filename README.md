@@ -42,18 +42,17 @@ Este projeto foi desenhado para aplicar e solidificar os seguintes conceitos té
 ## 4. Estrutura de Pacotes
 src/
 └── com/meubanco/
-├── Main.java
-├── exception/
-│   ├── ContaNaoEncontradaException.java
-│   ├── PoliticaDeTransferenciaException.java
-│   └── SaldoInsuficienteException.java
-├── model/
-│   └── Conta.java
-├── repository/
-│   └── RepositorioDeContas.java
-└── service/
-└── ServicoDeTransferencia.java
-
+    ├── Main.java
+    ├── exception/
+    │   ├── ContaNaoEncontradaException.java
+    │   ├── PoliticaDeTransferenciaException.java
+    │   └── SaldoInsuficienteException.java
+    ├── model/
+    │   └── Conta.java
+    ├── repository/
+    │   └── RepositorioDeContas.java
+    └── service/
+        └── ServicoDeTransferencia.java
 ---
 
 ## 5. Tecnologias Utilizadas
