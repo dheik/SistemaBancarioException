@@ -61,7 +61,6 @@ src/
 
 * **Java (JDK 17 ou superior)**
 * **Maven** (para gerenciamento do projeto)
-* **Lombok** (para redução de código boilerplate)
 
 ---
 
